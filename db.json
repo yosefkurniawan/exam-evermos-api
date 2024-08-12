@@ -1,162 +1,6 @@
 {
+    "data": {
       "products": {
-        "aggregations": [
-          {
-            "attribute_code": "category_id",
-            "label": "Categories",
-            "options": [
-              {
-                "count": 48,
-                "label": "Tops",
-                "value": "12"
-              },
-              {
-                "count": 24,
-                "label": "Bottoms",
-                "value": "13"
-              }
-            ]
-          },
-          {
-            "attribute_code": "category_id",
-            "label": "Categories",
-            "options": [
-              {
-                "count": 48,
-                "label": "Tops",
-                "value": "MTI="
-              },
-              {
-                "count": 24,
-                "label": "Bottoms",
-                "value": "MTM="
-              }
-            ]
-          },
-          {
-            "attribute_code": "price",
-            "label": "Price",
-            "options": [
-              {
-                "count": 4,
-                "label": "288000",
-                "value": "288000"
-              },
-              {
-                "count": 1,
-                "label": "345600",
-                "value": "345600"
-              },
-              {
-                "count": 1,
-                "label": "352000",
-                "value": "352000"
-              },
-              {
-                "count": 1,
-                "label": "358400",
-                "value": "358400"
-              },
-              {
-                "count": 4,
-                "label": "384000",
-                "value": "384000"
-              },
-              {
-                "count": 1,
-                "label": "388800",
-                "value": "388800"
-              },
-              {
-                "count": 5,
-                "label": "417600",
-                "value": "417600"
-              },
-              {
-                "count": 4,
-                "label": "448000",
-                "value": "448000"
-              },
-              {
-                "count": 2,
-                "label": "460800",
-                "value": "460800"
-              }
-            ]
-          },
-          {
-            "attribute_code": "color",
-            "label": "color",
-            "options": [
-              {
-                "count": 43,
-                "label": "Blue",
-                "value": "Blue"
-              },
-              {
-                "count": 38,
-                "label": "Black",
-                "value": "Black"
-              },
-              {
-                "count": 30,
-                "label": "Red",
-                "value": "Red"
-              },
-              {
-                "count": 28,
-                "label": "Green",
-                "value": "Green"
-              },
-              {
-                "count": 16,
-                "label": "Gray",
-                "value": "Gray"
-              },
-              {
-                "count": 11,
-                "label": "Purple",
-                "value": "Purple"
-              },
-              {
-                "count": 10,
-                "label": "Orange",
-                "value": "Orange"
-              }
-            ]
-          },
-          {
-            "attribute_code": "size",
-            "label": "Size",
-            "options": [
-              {
-                "count": 48,
-                "label": "L",
-                "value": "L"
-              },
-              {
-                "count": 48,
-                "label": "M",
-                "value": "M"
-              },
-              {
-                "count": 48,
-                "label": "S",
-                "value": "S"
-              },
-              {
-                "count": 48,
-                "label": "XL",
-                "value": "XL"
-              },
-              {
-                "count": 48,
-                "label": "XS",
-                "value": "XS"
-              }
-            ]
-          }
-        ],
         "items": [
           {
             "id": "MTAzMw==",
@@ -170,27 +14,22 @@
             ],
             "sku": "MSH12",
             "name": "Pierce Gym Short",
+            "description": {
+              "html": "<p>The Pierce Gym Short is similar to our Arcadio Gym Short, but designed with a fitted, tapered look. A flat waistband with an adjustable drawstring adds comfort, with zippered pockets for safe, easy storage.</p>\n<p>&bull; Dark red cotton shorts. <br />&bull; 87% Supplex, 13% Lycra.<br />&bull; Adjustable drawstring waistband.<br />&bull; Built-in mesh brief.<br />&bull; Machine wash cold, tumble dry low.</p>"
+            },
             "stock_status": "IN_STOCK",
             "review": {
-              "rating_summary": null,
-              "reviews_count": null
+              "rating_summary": null
             },
             "small_image": {
-              "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/eac9ca2db08fdabe30495279af82f69f/m/s/msh12-red_main.webp",
-              "label": "Pierce Gym Short"
+              "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/eac9ca2db08fdabe30495279af82f69f/m/s/msh12-red_main.webp"
             },
             "price_range": {
               "maximum_price": {
-                "discount": {
-                  "amount_off": 0,
-                  "percent_off": 0
-                },
                 "final_price": {
-                  "currency": "IDR",
                   "value": 432000
                 },
                 "regular_price": {
-                  "currency": "IDR",
                   "value": 432000
                 }
               }
@@ -208,27 +47,22 @@
             ],
             "sku": "MSH11",
             "name": "Arcadio Gym Short",
+            "description": {
+              "html": "<p>The Arcadio Gym short is a basic-looking piece with a lot more than meets the eye: casual-yet-functional relaxed fit, comfortable waistband and adjustable drawstring. Everything you need, plus more.</p>\n<p>&bull; Royal blue cotton shorts.<br />&bull; Built-in mesh brief. <br />&bull; 87% Spandex 13% Lycra.<br />&bull; Adjustable drawstring.</p>"
+            },
             "stock_status": "IN_STOCK",
             "review": {
-              "rating_summary": null,
-              "reviews_count": null
+              "rating_summary": null
             },
             "small_image": {
-              "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/eac9ca2db08fdabe30495279af82f69f/m/s/msh11-blue_main.webp",
-              "label": "Arcadio Gym Short"
+              "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/eac9ca2db08fdabe30495279af82f69f/m/s/msh11-blue_main.webp"
             },
             "price_range": {
               "maximum_price": {
-                "discount": {
-                  "amount_off": 0,
-                  "percent_off": 0
-                },
                 "final_price": {
-                  "currency": "IDR",
                   "value": 320000
                 },
                 "regular_price": {
-                  "currency": "IDR",
                   "value": 320000
                 }
               }
@@ -249,27 +83,22 @@
             ],
             "sku": "MSH10",
             "name": "Sol Active Short",
+            "description": {
+              "html": "<p>You'll let your fear go and push your limits in your new Sol Active Short. Featuring ultra-breathable performance fabric and a flat comfort-fit waistband, the Sol Active Short is perfect for high-intensity circuits or high-heat bikram.</p>\n<p>&bull; Light blue jersey shorts with mesh detail.<br />&bull; 87% Spandex 13% Lycra.<br />&bull; Machine wash cold, tumble dry low.<br />&bull; Superior performance fabric.<br />&bull; Flat-lock seams.</p>"
+            },
             "stock_status": "IN_STOCK",
             "review": {
-              "rating_summary": null,
-              "reviews_count": null
+              "rating_summary": null
             },
             "small_image": {
-              "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/eac9ca2db08fdabe30495279af82f69f/m/s/msh10-blue_main.webp",
-              "label": "Sol Active Short"
+              "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/eac9ca2db08fdabe30495279af82f69f/m/s/msh10-blue_main.webp"
             },
             "price_range": {
               "maximum_price": {
-                "discount": {
-                  "amount_off": 0,
-                  "percent_off": 0
-                },
                 "final_price": {
-                  "currency": "IDR",
                   "value": 512000
                 },
                 "regular_price": {
-                  "currency": "IDR",
                   "value": 512000
                 }
               }
@@ -290,27 +119,22 @@
             ],
             "sku": "MSH09",
             "name": "Troy Yoga Short",
+            "description": {
+              "html": "<p>The versatile, all-purpose Troy Yoga Short is knee-lengthed with an elastic waistband with drawstring, making it comfortably flexible. The removable LumaTech&trade; wicking liner is also bacteria resistant.</p>\n<p>&bull; Navy polyester pinstripe shorts.<br />&bull; Woven fabric with moderate stretch.<br />&bull; 62% cotton/34% nylon/4% spandex.<br />&bull; LumaTech&trade; lining.</p>"
+            },
             "stock_status": "IN_STOCK",
             "review": {
-              "rating_summary": "67",
-              "reviews_count": "3"
+              "rating_summary": "67"
             },
             "small_image": {
-              "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/eac9ca2db08fdabe30495279af82f69f/m/s/msh09-blue_main.webp",
-              "label": "Troy Yoga Short"
+              "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/eac9ca2db08fdabe30495279af82f69f/m/s/msh09-blue_main.webp"
             },
             "price_range": {
               "maximum_price": {
-                "discount": {
-                  "amount_off": 0,
-                  "percent_off": 0
-                },
                 "final_price": {
-                  "currency": "IDR",
                   "value": 384000
                 },
                 "regular_price": {
-                  "currency": "IDR",
                   "value": 384000
                 }
               }
@@ -328,27 +152,22 @@
             ],
             "sku": "MSH08",
             "name": "Orestes Fitness Short",
+            "description": {
+              "html": "<p>You're out of excuses not to run, lift, or play when you own a pair of the Orestes Fitness Short. You won't complain about the high-performance polyester wicking fabric, reflective safety trim or seamless built-in comfort brief, either.</p>\n<p>&bull; Black shorts with dark gray accents.<br />&bull; Elasticized waistband with interior drawstring.<br />&bull; Ventilating mesh detailing.<br />&bull; 100% polyester and recycled polyester.<br />&bull; Machine wash cold, tumble dry low.</p>"
+            },
             "stock_status": "IN_STOCK",
             "review": {
-              "rating_summary": "60",
-              "reviews_count": "2"
+              "rating_summary": "60"
             },
             "small_image": {
-              "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/eac9ca2db08fdabe30495279af82f69f/m/s/msh08-black_main.webp",
-              "label": "Orestes Fitness Short"
+              "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/eac9ca2db08fdabe30495279af82f69f/m/s/msh08-black_main.webp"
             },
             "price_range": {
               "maximum_price": {
-                "discount": {
-                  "amount_off": 0,
-                  "percent_off": 0
-                },
                 "final_price": {
-                  "currency": "IDR",
                   "value": 560000
                 },
                 "regular_price": {
-                  "currency": "IDR",
                   "value": 560000
                 }
               }
@@ -369,27 +188,22 @@
             ],
             "sku": "MSH07",
             "name": "Rapha  Sports Short",
+            "description": {
+              "html": "<p>For those about to sweat, we support you with the Rapha Sports Short. The compression-fit liner surrounds your muscles with the stimulation they need to find your high gear, while moisture-wicking performance fabric helps prevents sweat build-up.</p>\n<p>&bull; Black shorts with royal accents.<br />&bull; Compression liner. <br />&bull; Inseam: 8\". <br />&bull; Machine wash/dry.</p>"
+            },
             "stock_status": "IN_STOCK",
             "review": {
-              "rating_summary": "87",
-              "reviews_count": "3"
+              "rating_summary": "87"
             },
             "small_image": {
-              "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/eac9ca2db08fdabe30495279af82f69f/m/s/msh07-black_main.webp",
-              "label": "Rapha  Sports Short"
+              "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/eac9ca2db08fdabe30495279af82f69f/m/s/msh07-black_main.webp"
             },
             "price_range": {
               "maximum_price": {
-                "discount": {
-                  "amount_off": 0,
-                  "percent_off": 0
-                },
                 "final_price": {
-                  "currency": "IDR",
                   "value": 560000
                 },
                 "regular_price": {
-                  "currency": "IDR",
                   "value": 560000
                 }
               }
@@ -410,27 +224,22 @@
             ],
             "sku": "MSH06",
             "name": "Lono Yoga Short",
+            "description": {
+              "html": "<p>Some shorts are &ldquo;all-purpose,&rdquo; while the Lono Yoga Short has a single purpose: yoga. Soft, flexible outer material moves with your body, and a secure, integrated boxer brief liner gives you extra confidence as you push your physique to the outer limits.</p>\n<p>&bull; Dark gray shorts with mesh accents.<br />&bull; Ultra flexible four-way stretch.<br />&bull; Flatlock seams and waistband.<br />&bull; Two pockets, phony fly.<br />&bull; Nylon/Lycra outer, Polyester/Lycra inner.</p>"
+            },
             "stock_status": "IN_STOCK",
             "review": {
-              "rating_summary": "70",
-              "reviews_count": "2"
+              "rating_summary": "70"
             },
             "small_image": {
-              "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/eac9ca2db08fdabe30495279af82f69f/m/s/msh06-gray_main.webp",
-              "label": "Lono Yoga Short"
+              "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/eac9ca2db08fdabe30495279af82f69f/m/s/msh06-gray_main.webp"
             },
             "price_range": {
               "maximum_price": {
-                "discount": {
-                  "amount_off": 0,
-                  "percent_off": 0
-                },
                 "final_price": {
-                  "currency": "IDR",
                   "value": 512000
                 },
                 "regular_price": {
-                  "currency": "IDR",
                   "value": 512000
                 }
               }
@@ -451,27 +260,22 @@
             ],
             "sku": "MSH05",
             "name": "Hawkeye Yoga Short",
+            "description": {
+              "html": "<p>What more do you need than a sporty yoga short made with organic cotton and a little spandex for mobility? The Hawkeye Yoga Short brings a stylish, standard fit you can sport with confidence outside the studio.</p>\n<p>&bull; Dark gray shorts with red accents.<br />&bull; 92% Organic Cotton 8% Spandex.<br />&bull; Breathable stretch organic cotton.<br />&bull; Medium=8.0\" (21.0cm) inseam.</p>"
+            },
             "stock_status": "IN_STOCK",
             "review": {
-              "rating_summary": "73",
-              "reviews_count": "3"
+              "rating_summary": "73"
             },
             "small_image": {
-              "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/eac9ca2db08fdabe30495279af82f69f/m/s/msh05-gray_main.webp",
-              "label": "Hawkeye Yoga Short"
+              "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/eac9ca2db08fdabe30495279af82f69f/m/s/msh05-gray_main.webp"
             },
             "price_range": {
               "maximum_price": {
-                "discount": {
-                  "amount_off": 0,
-                  "percent_off": 0
-                },
                 "final_price": {
-                  "currency": "IDR",
                   "value": 464000
                 },
                 "regular_price": {
-                  "currency": "IDR",
                   "value": 464000
                 }
               }
@@ -489,27 +293,22 @@
             ],
             "sku": "MSH04",
             "name": "Torque Power Short",
+            "description": {
+              "html": "<p>Take a turn in the Torque Power Short and enjoy the smooth, motion-friendly stretch and sweat-wicking, UV-protective material. You'll stay cool, dry and energized miles later.</p>\n<p>&bull; Light gray shorts.<br />&bull; Fitted design. <br />&bull; Elastic waistband. <br />&bull; Flat-seam construction. <br />&bull; 7\" inseam. <br />&bull; Machine wash/dry.</p>"
+            },
             "stock_status": "IN_STOCK",
             "review": {
-              "rating_summary": "60",
-              "reviews_count": "3"
+              "rating_summary": "60"
             },
             "small_image": {
-              "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/eac9ca2db08fdabe30495279af82f69f/m/s/msh04-gray_main.webp",
-              "label": "Torque Power Short"
+              "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/eac9ca2db08fdabe30495279af82f69f/m/s/msh04-gray_main.webp"
             },
             "price_range": {
               "maximum_price": {
-                "discount": {
-                  "amount_off": 0,
-                  "percent_off": 0
-                },
                 "final_price": {
-                  "currency": "IDR",
                   "value": 520000
                 },
                 "regular_price": {
-                  "currency": "IDR",
                   "value": 520000
                 }
               }
@@ -530,27 +329,22 @@
             ],
             "sku": "MSH03",
             "name": "Meteor Workout Short",
+            "description": {
+              "html": "<p>Step into the Meteor Workout Short for an incredibly lightweight fitness experience. Its breathable construction and an inner brief provide additional comfort and support, while the adjustable waistband offers the perfect fit to take you to the finish.</p>\n<p>&bull; Royal blue shorts with light blue accents.<br />&bull; Interior drawstring waistband. <br />&bull; 7\" inseam. <br />&bull; Machine wash/dry.</p>"
+            },
             "stock_status": "IN_STOCK",
             "review": {
-              "rating_summary": "73",
-              "reviews_count": "3"
+              "rating_summary": "73"
             },
             "small_image": {
-              "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/eac9ca2db08fdabe30495279af82f69f/m/s/msh03-blue_main.webp",
-              "label": "Meteor Workout Short"
+              "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/eac9ca2db08fdabe30495279af82f69f/m/s/msh03-blue_main.webp"
             },
             "price_range": {
               "maximum_price": {
-                "discount": {
-                  "amount_off": 0,
-                  "percent_off": 0
-                },
                 "final_price": {
-                  "currency": "IDR",
                   "value": 520000
                 },
                 "regular_price": {
-                  "currency": "IDR",
                   "value": 520000
                 }
               }
@@ -558,4 +352,5 @@
           }
         ]
       }
-}
+    }
+  }
