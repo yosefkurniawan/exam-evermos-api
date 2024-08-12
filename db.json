@@ -81,181 +81,6 @@
                 "count": 2,
                 "label": "460800",
                 "value": "460800"
-              },
-              {
-                "count": 5,
-                "label": "464000",
-                "value": "464000"
-              },
-              {
-                "count": 2,
-                "label": "512000",
-                "value": "512000"
-              },
-              {
-                "count": 3,
-                "label": "520000",
-                "value": "520000"
-              },
-              {
-                "count": 2,
-                "label": "560000",
-                "value": "560000"
-              },
-              {
-                "count": 1,
-                "label": "561600",
-                "value": "561600"
-              },
-              {
-                "count": 1,
-                "label": "576000",
-                "value": "576000"
-              },
-              {
-                "count": 1,
-                "label": "588800",
-                "value": "588800"
-              },
-              {
-                "count": 2,
-                "label": "604800",
-                "value": "604800"
-              },
-              {
-                "count": 1,
-                "label": "614400",
-                "value": "614400"
-              },
-              {
-                "count": 1,
-                "label": "624000",
-                "value": "624000"
-              },
-              {
-                "count": 1,
-                "label": "633600",
-                "value": "633600"
-              },
-              {
-                "count": 1,
-                "label": "652800",
-                "value": "652800"
-              },
-              {
-                "count": 1,
-                "label": "672000",
-                "value": "672000"
-              },
-              {
-                "count": 1,
-                "label": "705600",
-                "value": "705600"
-              },
-              {
-                "count": 1,
-                "label": "720000",
-                "value": "720000"
-              },
-              {
-                "count": 1,
-                "label": "729600",
-                "value": "729600"
-              },
-              {
-                "count": 1,
-                "label": "734400",
-                "value": "734400"
-              },
-              {
-                "count": 1,
-                "label": "748800",
-                "value": "748800"
-              },
-              {
-                "count": 1,
-                "label": "752000",
-                "value": "752000"
-              },
-              {
-                "count": 4,
-                "label": "784000",
-                "value": "784000"
-              },
-              {
-                "count": 1,
-                "label": "844800",
-                "value": "844800"
-              },
-              {
-                "count": 2,
-                "label": "864000",
-                "value": "864000"
-              },
-              {
-                "count": 1,
-                "label": "870400",
-                "value": "870400"
-              },
-              {
-                "count": 1,
-                "label": "892800",
-                "value": "892800"
-              },
-              {
-                "count": 1,
-                "label": "911840",
-                "value": "911840"
-              },
-              {
-                "count": 1,
-                "label": "921600",
-                "value": "921600"
-              },
-              {
-                "count": 1,
-                "label": "947200",
-                "value": "947200"
-              },
-              {
-                "count": 1,
-                "label": "950400",
-                "value": "950400"
-              },
-              {
-                "count": 1,
-                "label": "960000",
-                "value": "960000"
-              },
-              {
-                "count": 2,
-                "label": "993600",
-                "value": "993600"
-              },
-              {
-                "count": 1,
-                "label": "1036800",
-                "value": "1036800"
-              },
-              {
-                "count": 1,
-                "label": "1040000",
-                "value": "1040000"
-              },
-              {
-                "count": 1,
-                "label": "1049600",
-                "value": "1049600"
-              },
-              {
-                "count": 1,
-                "label": "1184000",
-                "value": "1184000"
-              },
-              {
-                "count": 1,
-                "label": "1584000",
-                "value": "1584000"
               }
             ]
           },
@@ -297,87 +122,6 @@
                 "count": 10,
                 "label": "Orange",
                 "value": "Orange"
-              },
-              {
-                "count": 10,
-                "label": "Yellow",
-                "value": "Yellow"
-              },
-              {
-                "count": 6,
-                "label": "White",
-                "value": "White"
-              },
-              {
-                "count": 3,
-                "label": "Brown",
-                "value": "Brown"
-              },
-              {
-                "count": 1,
-                "label": "__other_docs",
-                "value": "__other_docs"
-              }
-            ]
-          },
-          {
-            "attribute_code": "material",
-            "label": "material",
-            "options": [
-              {
-                "count": 47,
-                "label": "Polyester",
-                "value": "Polyester"
-              },
-              {
-                "count": 19,
-                "label": "Organic Cotton",
-                "value": "Organic Cotton"
-              },
-              {
-                "count": 16,
-                "label": "Wool",
-                "value": "Wool"
-              },
-              {
-                "count": 15,
-                "label": "Nylon",
-                "value": "Nylon"
-              },
-              {
-                "count": 14,
-                "label": "Cocona&reg; performance fabric",
-                "value": "Cocona&reg; performance fabric"
-              },
-              {
-                "count": 14,
-                "label": "Fleece",
-                "value": "Fleece"
-              },
-              {
-                "count": 13,
-                "label": "LumaTech&trade;",
-                "value": "LumaTech&trade;"
-              },
-              {
-                "count": 12,
-                "label": "Spandex",
-                "value": "Spandex"
-              },
-              {
-                "count": 9,
-                "label": "Rayon",
-                "value": "Rayon"
-              },
-              {
-                "count": 8,
-                "label": "CoolTech&trade;",
-                "value": "CoolTech&trade;"
-              },
-              {
-                "count": 26,
-                "label": "__other_docs",
-                "value": "__other_docs"
               }
             ]
           },
@@ -409,230 +153,6 @@
                 "count": 48,
                 "label": "XS",
                 "value": "XS"
-              },
-              {
-                "count": 24,
-                "label": "32",
-                "value": "32"
-              },
-              {
-                "count": 24,
-                "label": "33",
-                "value": "33"
-              },
-              {
-                "count": 24,
-                "label": "34",
-                "value": "34"
-              },
-              {
-                "count": 24,
-                "label": "36",
-                "value": "36"
-              }
-            ]
-          },
-          {
-            "attribute_code": "pattern",
-            "label": "pattern",
-            "options": [
-              {
-                "count": 67,
-                "label": "Solid",
-                "value": "Solid"
-              },
-              {
-                "count": 4,
-                "label": "Color-Blocked",
-                "value": "Color-Blocked"
-              },
-              {
-                "count": 3,
-                "label": "Striped",
-                "value": "Striped"
-              }
-            ]
-          },
-          {
-            "attribute_code": "climate",
-            "label": "climate",
-            "options": [
-              {
-                "count": 51,
-                "label": "All-Weather",
-                "value": "All-Weather"
-              },
-              {
-                "count": 50,
-                "label": "Indoor",
-                "value": "Indoor"
-              },
-              {
-                "count": 35,
-                "label": "Warm",
-                "value": "Warm"
-              },
-              {
-                "count": 33,
-                "label": "Cool",
-                "value": "Cool"
-              },
-              {
-                "count": 33,
-                "label": "Spring",
-                "value": "Spring"
-              },
-              {
-                "count": 27,
-                "label": "Windy",
-                "value": "Windy"
-              },
-              {
-                "count": 13,
-                "label": "Wintry",
-                "value": "Wintry"
-              },
-              {
-                "count": 9,
-                "label": "Mild",
-                "value": "Mild"
-              },
-              {
-                "count": 8,
-                "label": "Cold",
-                "value": "Cold"
-              },
-              {
-                "count": 8,
-                "label": "Hot",
-                "value": "Hot"
-              },
-              {
-                "count": 6,
-                "label": "__other_docs",
-                "value": "__other_docs"
-              }
-            ]
-          },
-          {
-            "attribute_code": "indexed_attributes",
-            "label": "indexed_attributes",
-            "options": [
-              {
-                "count": 72,
-                "label": "climate",
-                "value": "climate"
-              },
-              {
-                "count": 72,
-                "label": "color",
-                "value": "color"
-              },
-              {
-                "count": 72,
-                "label": "image",
-                "value": "image"
-              },
-              {
-                "count": 72,
-                "label": "material",
-                "value": "material"
-              },
-              {
-                "count": 72,
-                "label": "name",
-                "value": "name"
-              },
-              {
-                "count": 72,
-                "label": "pattern",
-                "value": "pattern"
-              },
-              {
-                "count": 72,
-                "label": "price",
-                "value": "price"
-              },
-              {
-                "count": 72,
-                "label": "size",
-                "value": "size"
-              },
-              {
-                "count": 72,
-                "label": "status",
-                "value": "status"
-              },
-              {
-                "count": 72,
-                "label": "tax_class_id",
-                "value": "tax_class_id"
-              },
-              {
-                "count": 72,
-                "label": "url_key",
-                "value": "url_key"
-              },
-              {
-                "count": 35,
-                "label": "style_general",
-                "value": "style_general"
-              },
-              {
-                "count": 24,
-                "label": "style_bottom",
-                "value": "style_bottom"
-              },
-              {
-                "count": 20,
-                "label": "performance_fabric",
-                "value": "performance_fabric"
-              },
-              {
-                "count": 19,
-                "label": "new",
-                "value": "new"
-              },
-              {
-                "count": 15,
-                "label": "erin_recommends",
-                "value": "erin_recommends"
-              },
-              {
-                "count": 13,
-                "label": "sale",
-                "value": "sale"
-              },
-              {
-                "count": 9,
-                "label": "eco_collection",
-                "value": "eco_collection"
-              },
-              {
-                "count": 3,
-                "label": "homepage_sort_order",
-                "value": "homepage_sort_order"
-              },
-              {
-                "count": 1,
-                "label": "stripe_sub_interval",
-                "value": "stripe_sub_interval"
-              }
-            ]
-          },
-          {
-            "attribute_code": "attribute_set_id",
-            "label": "attribute_set_id",
-            "options": [
-              {
-                "count": 48,
-                "label": "9",
-                "value": "9"
-              },
-              {
-                "count": 24,
-                "label": "10",
-                "value": "10"
               }
             ]
           }
@@ -651,9 +171,6 @@
             "sku": "MSH12",
             "name": "Pierce Gym Short",
             "stock_status": "IN_STOCK",
-            "short_description": {
-              "html": ""
-            },
             "review": {
               "rating_summary": null,
               "reviews_count": null
@@ -692,9 +209,6 @@
             "sku": "MSH11",
             "name": "Arcadio Gym Short",
             "stock_status": "IN_STOCK",
-            "short_description": {
-              "html": ""
-            },
             "review": {
               "rating_summary": null,
               "reviews_count": null
@@ -736,9 +250,6 @@
             "sku": "MSH10",
             "name": "Sol Active Short",
             "stock_status": "IN_STOCK",
-            "short_description": {
-              "html": ""
-            },
             "review": {
               "rating_summary": null,
               "reviews_count": null
@@ -780,9 +291,6 @@
             "sku": "MSH09",
             "name": "Troy Yoga Short",
             "stock_status": "IN_STOCK",
-            "short_description": {
-              "html": ""
-            },
             "review": {
               "rating_summary": "67",
               "reviews_count": "3"
@@ -821,9 +329,6 @@
             "sku": "MSH08",
             "name": "Orestes Fitness Short",
             "stock_status": "IN_STOCK",
-            "short_description": {
-              "html": ""
-            },
             "review": {
               "rating_summary": "60",
               "reviews_count": "2"
@@ -865,9 +370,6 @@
             "sku": "MSH07",
             "name": "Rapha  Sports Short",
             "stock_status": "IN_STOCK",
-            "short_description": {
-              "html": ""
-            },
             "review": {
               "rating_summary": "87",
               "reviews_count": "3"
@@ -909,9 +411,6 @@
             "sku": "MSH06",
             "name": "Lono Yoga Short",
             "stock_status": "IN_STOCK",
-            "short_description": {
-              "html": ""
-            },
             "review": {
               "rating_summary": "70",
               "reviews_count": "2"
@@ -953,9 +452,6 @@
             "sku": "MSH05",
             "name": "Hawkeye Yoga Short",
             "stock_status": "IN_STOCK",
-            "short_description": {
-              "html": ""
-            },
             "review": {
               "rating_summary": "73",
               "reviews_count": "3"
@@ -994,9 +490,6 @@
             "sku": "MSH04",
             "name": "Torque Power Short",
             "stock_status": "IN_STOCK",
-            "short_description": {
-              "html": ""
-            },
             "review": {
               "rating_summary": "60",
               "reviews_count": "3"
@@ -1038,9 +531,6 @@
             "sku": "MSH03",
             "name": "Meteor Workout Short",
             "stock_status": "IN_STOCK",
-            "short_description": {
-              "html": ""
-            },
             "review": {
               "rating_summary": "73",
               "reviews_count": "3"
