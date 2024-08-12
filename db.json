@@ -1,110 +1,1071 @@
 {
-    "products": [
-        {
-            "imageSrc": "https://b2cdemo.getswift.asia/media/catalog/product/cache/50dfd146a0eaf4fd913e00072e909ed4/m/s/msh12-red_main.webp",
-            "title": "Pierce Gym Short",
-            "price": 100,
-            "specialPrice": 80
-        },
-        {
-            "imageSrc": "https://b2cdemo.getswift.asia/media/catalog/product/cache/50dfd146a0eaf4fd913e00072e909ed4/m/s/msh11-blue_main.webp",
-            "title": "Arcadio Gym Short",
-            "price": 120
-        },
-        {
-            "imageSrc": "https://b2cdemo.getswift.asia/media/catalog/product/cache/50dfd146a0eaf4fd913e00072e909ed4/m/p/mp12-black_main.webp",
-            "title": "Cronus Yoga Pant",
-            "price": 768
-        },
-        {
-            "imageSrc": "https://b2cdemo.getswift.asia/media/catalog/product/cache/50dfd146a0eaf4fd913e00072e909ed4/m/p/mp12-black_main.webp",
-            "title": "Cronus Yoga Pant",
-            "price": 768
-        },
-        {
-            "imageSrc": "https://b2cdemo.getswift.asia/media/catalog/product/cache/50dfd146a0eaf4fd913e00072e909ed4/m/p/mp12-black_main.webp",
-            "title": "Cronus Yoga Pant",
-            "price": 768
-        },
-        {
-            "imageSrc": "https://b2cdemo.getswift.asia/media/catalog/product/cache/50dfd146a0eaf4fd913e00072e909ed4/m/p/mp12-black_main.webp",
-            "title": "Cronus Yoga Pant",
-            "price": 768
-        },
-        {
-            "imageSrc": "https://b2cdemo.getswift.asia/media/catalog/product/cache/50dfd146a0eaf4fd913e00072e909ed4/m/p/mp12-black_main.webp",
-            "title": "Cronus Yoga Pant",
-            "price": 768
-        },
-        {
-            "imageSrc": "https://b2cdemo.getswift.asia/media/catalog/product/cache/50dfd146a0eaf4fd913e00072e909ed4/m/p/mp12-black_main.webp",
-            "title": "Cronus Yoga Pant",
-            "price": 768
-        },
-        {
-            "imageSrc": "https://b2cdemo.getswift.asia/media/catalog/product/cache/50dfd146a0eaf4fd913e00072e909ed4/m/p/mp12-black_main.webp",
-            "title": "Cronus Yoga Pant",
-            "price": 768
-        },
-        {
-            "imageSrc": "https://b2cdemo.getswift.asia/media/catalog/product/cache/50dfd146a0eaf4fd913e00072e909ed4/m/p/mp12-black_main.webp",
-            "title": "Cronus Yoga Pant",
-            "price": 768
-        },
-        {
-            "imageSrc": "https://b2cdemo.getswift.asia/media/catalog/product/cache/50dfd146a0eaf4fd913e00072e909ed4/m/p/mp12-black_main.webp",
-            "title": "Cronus Yoga Pant",
-            "price": 768
-        },
-        {
-            "imageSrc": "https://b2cdemo.getswift.asia/media/catalog/product/cache/50dfd146a0eaf4fd913e00072e909ed4/m/p/mp12-black_main.webp",
-            "title": "Cronus Yoga Pant",
-            "price": 768
-        },
-        {
-            "imageSrc": "https://b2cdemo.getswift.asia/media/catalog/product/cache/50dfd146a0eaf4fd913e00072e909ed4/m/p/mp12-black_main.webp",
-            "title": "Cronus Yoga Pant",
-            "price": 768
-        },
-        {
-            "imageSrc": "https://b2cdemo.getswift.asia/media/catalog/product/cache/50dfd146a0eaf4fd913e00072e909ed4/m/p/mp12-black_main.webp",
-            "title": "Cronus Yoga Pant",
-            "price": 768
-        },
-        {
-            "imageSrc": "https://b2cdemo.getswift.asia/media/catalog/product/cache/50dfd146a0eaf4fd913e00072e909ed4/m/p/mp12-black_main.webp",
-            "title": "Cronus Yoga Pant",
-            "price": 768
-        },
-        {
-            "imageSrc": "https://b2cdemo.getswift.asia/media/catalog/product/cache/50dfd146a0eaf4fd913e00072e909ed4/m/p/mp12-black_main.webp",
-            "title": "Cronus Yoga Pant",
-            "price": 768
-        },
-        {
-            "imageSrc": "https://b2cdemo.getswift.asia/media/catalog/product/cache/50dfd146a0eaf4fd913e00072e909ed4/m/p/mp12-black_main.webp",
-            "title": "Cronus Yoga Pant",
-            "price": 768
-        },
-        {
-            "imageSrc": "https://b2cdemo.getswift.asia/media/catalog/product/cache/50dfd146a0eaf4fd913e00072e909ed4/m/p/mp12-black_main.webp",
-            "title": "Cronus Yoga Pant",
-            "price": 768
-        },
-        {
-            "imageSrc": "https://b2cdemo.getswift.asia/media/catalog/product/cache/50dfd146a0eaf4fd913e00072e909ed4/m/p/mp12-black_main.webp",
-            "title": "Cronus Yoga Pant",
-            "price": 768
-        },
-        {
-            "imageSrc": "https://b2cdemo.getswift.asia/media/catalog/product/cache/50dfd146a0eaf4fd913e00072e909ed4/m/p/mp12-black_main.webp",
-            "title": "Cronus Yoga Pant",
-            "price": 768
-        },
-        {
-            "imageSrc": "https://b2cdemo.getswift.asia/media/catalog/product/cache/50dfd146a0eaf4fd913e00072e909ed4/m/p/mp12-black_main.webp",
-            "title": "Cronus Yoga Pant",
-            "price": 768
-        }
-    ]
+      "products": {
+        "aggregations": [
+          {
+            "attribute_code": "category_id",
+            "label": "Categories",
+            "options": [
+              {
+                "count": 48,
+                "label": "Tops",
+                "value": "12"
+              },
+              {
+                "count": 24,
+                "label": "Bottoms",
+                "value": "13"
+              }
+            ]
+          },
+          {
+            "attribute_code": "category_id",
+            "label": "Categories",
+            "options": [
+              {
+                "count": 48,
+                "label": "Tops",
+                "value": "MTI="
+              },
+              {
+                "count": 24,
+                "label": "Bottoms",
+                "value": "MTM="
+              }
+            ]
+          },
+          {
+            "attribute_code": "price",
+            "label": "Price",
+            "options": [
+              {
+                "count": 4,
+                "label": "288000",
+                "value": "288000"
+              },
+              {
+                "count": 1,
+                "label": "345600",
+                "value": "345600"
+              },
+              {
+                "count": 1,
+                "label": "352000",
+                "value": "352000"
+              },
+              {
+                "count": 1,
+                "label": "358400",
+                "value": "358400"
+              },
+              {
+                "count": 4,
+                "label": "384000",
+                "value": "384000"
+              },
+              {
+                "count": 1,
+                "label": "388800",
+                "value": "388800"
+              },
+              {
+                "count": 5,
+                "label": "417600",
+                "value": "417600"
+              },
+              {
+                "count": 4,
+                "label": "448000",
+                "value": "448000"
+              },
+              {
+                "count": 2,
+                "label": "460800",
+                "value": "460800"
+              },
+              {
+                "count": 5,
+                "label": "464000",
+                "value": "464000"
+              },
+              {
+                "count": 2,
+                "label": "512000",
+                "value": "512000"
+              },
+              {
+                "count": 3,
+                "label": "520000",
+                "value": "520000"
+              },
+              {
+                "count": 2,
+                "label": "560000",
+                "value": "560000"
+              },
+              {
+                "count": 1,
+                "label": "561600",
+                "value": "561600"
+              },
+              {
+                "count": 1,
+                "label": "576000",
+                "value": "576000"
+              },
+              {
+                "count": 1,
+                "label": "588800",
+                "value": "588800"
+              },
+              {
+                "count": 2,
+                "label": "604800",
+                "value": "604800"
+              },
+              {
+                "count": 1,
+                "label": "614400",
+                "value": "614400"
+              },
+              {
+                "count": 1,
+                "label": "624000",
+                "value": "624000"
+              },
+              {
+                "count": 1,
+                "label": "633600",
+                "value": "633600"
+              },
+              {
+                "count": 1,
+                "label": "652800",
+                "value": "652800"
+              },
+              {
+                "count": 1,
+                "label": "672000",
+                "value": "672000"
+              },
+              {
+                "count": 1,
+                "label": "705600",
+                "value": "705600"
+              },
+              {
+                "count": 1,
+                "label": "720000",
+                "value": "720000"
+              },
+              {
+                "count": 1,
+                "label": "729600",
+                "value": "729600"
+              },
+              {
+                "count": 1,
+                "label": "734400",
+                "value": "734400"
+              },
+              {
+                "count": 1,
+                "label": "748800",
+                "value": "748800"
+              },
+              {
+                "count": 1,
+                "label": "752000",
+                "value": "752000"
+              },
+              {
+                "count": 4,
+                "label": "784000",
+                "value": "784000"
+              },
+              {
+                "count": 1,
+                "label": "844800",
+                "value": "844800"
+              },
+              {
+                "count": 2,
+                "label": "864000",
+                "value": "864000"
+              },
+              {
+                "count": 1,
+                "label": "870400",
+                "value": "870400"
+              },
+              {
+                "count": 1,
+                "label": "892800",
+                "value": "892800"
+              },
+              {
+                "count": 1,
+                "label": "911840",
+                "value": "911840"
+              },
+              {
+                "count": 1,
+                "label": "921600",
+                "value": "921600"
+              },
+              {
+                "count": 1,
+                "label": "947200",
+                "value": "947200"
+              },
+              {
+                "count": 1,
+                "label": "950400",
+                "value": "950400"
+              },
+              {
+                "count": 1,
+                "label": "960000",
+                "value": "960000"
+              },
+              {
+                "count": 2,
+                "label": "993600",
+                "value": "993600"
+              },
+              {
+                "count": 1,
+                "label": "1036800",
+                "value": "1036800"
+              },
+              {
+                "count": 1,
+                "label": "1040000",
+                "value": "1040000"
+              },
+              {
+                "count": 1,
+                "label": "1049600",
+                "value": "1049600"
+              },
+              {
+                "count": 1,
+                "label": "1184000",
+                "value": "1184000"
+              },
+              {
+                "count": 1,
+                "label": "1584000",
+                "value": "1584000"
+              }
+            ]
+          },
+          {
+            "attribute_code": "color",
+            "label": "color",
+            "options": [
+              {
+                "count": 43,
+                "label": "Blue",
+                "value": "Blue"
+              },
+              {
+                "count": 38,
+                "label": "Black",
+                "value": "Black"
+              },
+              {
+                "count": 30,
+                "label": "Red",
+                "value": "Red"
+              },
+              {
+                "count": 28,
+                "label": "Green",
+                "value": "Green"
+              },
+              {
+                "count": 16,
+                "label": "Gray",
+                "value": "Gray"
+              },
+              {
+                "count": 11,
+                "label": "Purple",
+                "value": "Purple"
+              },
+              {
+                "count": 10,
+                "label": "Orange",
+                "value": "Orange"
+              },
+              {
+                "count": 10,
+                "label": "Yellow",
+                "value": "Yellow"
+              },
+              {
+                "count": 6,
+                "label": "White",
+                "value": "White"
+              },
+              {
+                "count": 3,
+                "label": "Brown",
+                "value": "Brown"
+              },
+              {
+                "count": 1,
+                "label": "__other_docs",
+                "value": "__other_docs"
+              }
+            ]
+          },
+          {
+            "attribute_code": "material",
+            "label": "material",
+            "options": [
+              {
+                "count": 47,
+                "label": "Polyester",
+                "value": "Polyester"
+              },
+              {
+                "count": 19,
+                "label": "Organic Cotton",
+                "value": "Organic Cotton"
+              },
+              {
+                "count": 16,
+                "label": "Wool",
+                "value": "Wool"
+              },
+              {
+                "count": 15,
+                "label": "Nylon",
+                "value": "Nylon"
+              },
+              {
+                "count": 14,
+                "label": "Cocona&reg; performance fabric",
+                "value": "Cocona&reg; performance fabric"
+              },
+              {
+                "count": 14,
+                "label": "Fleece",
+                "value": "Fleece"
+              },
+              {
+                "count": 13,
+                "label": "LumaTech&trade;",
+                "value": "LumaTech&trade;"
+              },
+              {
+                "count": 12,
+                "label": "Spandex",
+                "value": "Spandex"
+              },
+              {
+                "count": 9,
+                "label": "Rayon",
+                "value": "Rayon"
+              },
+              {
+                "count": 8,
+                "label": "CoolTech&trade;",
+                "value": "CoolTech&trade;"
+              },
+              {
+                "count": 26,
+                "label": "__other_docs",
+                "value": "__other_docs"
+              }
+            ]
+          },
+          {
+            "attribute_code": "size",
+            "label": "Size",
+            "options": [
+              {
+                "count": 48,
+                "label": "L",
+                "value": "L"
+              },
+              {
+                "count": 48,
+                "label": "M",
+                "value": "M"
+              },
+              {
+                "count": 48,
+                "label": "S",
+                "value": "S"
+              },
+              {
+                "count": 48,
+                "label": "XL",
+                "value": "XL"
+              },
+              {
+                "count": 48,
+                "label": "XS",
+                "value": "XS"
+              },
+              {
+                "count": 24,
+                "label": "32",
+                "value": "32"
+              },
+              {
+                "count": 24,
+                "label": "33",
+                "value": "33"
+              },
+              {
+                "count": 24,
+                "label": "34",
+                "value": "34"
+              },
+              {
+                "count": 24,
+                "label": "36",
+                "value": "36"
+              }
+            ]
+          },
+          {
+            "attribute_code": "pattern",
+            "label": "pattern",
+            "options": [
+              {
+                "count": 67,
+                "label": "Solid",
+                "value": "Solid"
+              },
+              {
+                "count": 4,
+                "label": "Color-Blocked",
+                "value": "Color-Blocked"
+              },
+              {
+                "count": 3,
+                "label": "Striped",
+                "value": "Striped"
+              }
+            ]
+          },
+          {
+            "attribute_code": "climate",
+            "label": "climate",
+            "options": [
+              {
+                "count": 51,
+                "label": "All-Weather",
+                "value": "All-Weather"
+              },
+              {
+                "count": 50,
+                "label": "Indoor",
+                "value": "Indoor"
+              },
+              {
+                "count": 35,
+                "label": "Warm",
+                "value": "Warm"
+              },
+              {
+                "count": 33,
+                "label": "Cool",
+                "value": "Cool"
+              },
+              {
+                "count": 33,
+                "label": "Spring",
+                "value": "Spring"
+              },
+              {
+                "count": 27,
+                "label": "Windy",
+                "value": "Windy"
+              },
+              {
+                "count": 13,
+                "label": "Wintry",
+                "value": "Wintry"
+              },
+              {
+                "count": 9,
+                "label": "Mild",
+                "value": "Mild"
+              },
+              {
+                "count": 8,
+                "label": "Cold",
+                "value": "Cold"
+              },
+              {
+                "count": 8,
+                "label": "Hot",
+                "value": "Hot"
+              },
+              {
+                "count": 6,
+                "label": "__other_docs",
+                "value": "__other_docs"
+              }
+            ]
+          },
+          {
+            "attribute_code": "indexed_attributes",
+            "label": "indexed_attributes",
+            "options": [
+              {
+                "count": 72,
+                "label": "climate",
+                "value": "climate"
+              },
+              {
+                "count": 72,
+                "label": "color",
+                "value": "color"
+              },
+              {
+                "count": 72,
+                "label": "image",
+                "value": "image"
+              },
+              {
+                "count": 72,
+                "label": "material",
+                "value": "material"
+              },
+              {
+                "count": 72,
+                "label": "name",
+                "value": "name"
+              },
+              {
+                "count": 72,
+                "label": "pattern",
+                "value": "pattern"
+              },
+              {
+                "count": 72,
+                "label": "price",
+                "value": "price"
+              },
+              {
+                "count": 72,
+                "label": "size",
+                "value": "size"
+              },
+              {
+                "count": 72,
+                "label": "status",
+                "value": "status"
+              },
+              {
+                "count": 72,
+                "label": "tax_class_id",
+                "value": "tax_class_id"
+              },
+              {
+                "count": 72,
+                "label": "url_key",
+                "value": "url_key"
+              },
+              {
+                "count": 35,
+                "label": "style_general",
+                "value": "style_general"
+              },
+              {
+                "count": 24,
+                "label": "style_bottom",
+                "value": "style_bottom"
+              },
+              {
+                "count": 20,
+                "label": "performance_fabric",
+                "value": "performance_fabric"
+              },
+              {
+                "count": 19,
+                "label": "new",
+                "value": "new"
+              },
+              {
+                "count": 15,
+                "label": "erin_recommends",
+                "value": "erin_recommends"
+              },
+              {
+                "count": 13,
+                "label": "sale",
+                "value": "sale"
+              },
+              {
+                "count": 9,
+                "label": "eco_collection",
+                "value": "eco_collection"
+              },
+              {
+                "count": 3,
+                "label": "homepage_sort_order",
+                "value": "homepage_sort_order"
+              },
+              {
+                "count": 1,
+                "label": "stripe_sub_interval",
+                "value": "stripe_sub_interval"
+              }
+            ]
+          },
+          {
+            "attribute_code": "attribute_set_id",
+            "label": "attribute_set_id",
+            "options": [
+              {
+                "count": 48,
+                "label": "9",
+                "value": "9"
+              },
+              {
+                "count": 24,
+                "label": "10",
+                "value": "10"
+              }
+            ]
+          }
+        ],
+        "items": [
+          {
+            "id": "MTAzMw==",
+            "media_gallery": [
+              {
+                "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/bb6747cb78f62b4f8afaa3d7dcaedbc4/m/s/msh12-red_main.webp"
+              },
+              {
+                "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/bb6747cb78f62b4f8afaa3d7dcaedbc4/m/s/msh12-red_back.webp"
+              }
+            ],
+            "sku": "MSH12",
+            "name": "Pierce Gym Short",
+            "stock_status": "IN_STOCK",
+            "short_description": {
+              "html": ""
+            },
+            "review": {
+              "rating_summary": null,
+              "reviews_count": null
+            },
+            "small_image": {
+              "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/eac9ca2db08fdabe30495279af82f69f/m/s/msh12-red_main.webp",
+              "label": "Pierce Gym Short"
+            },
+            "price_range": {
+              "maximum_price": {
+                "discount": {
+                  "amount_off": 0,
+                  "percent_off": 0
+                },
+                "final_price": {
+                  "currency": "IDR",
+                  "value": 432000
+                },
+                "regular_price": {
+                  "currency": "IDR",
+                  "value": 432000
+                }
+              }
+            }
+          },
+          {
+            "id": "MTAyMA==",
+            "media_gallery": [
+              {
+                "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/bb6747cb78f62b4f8afaa3d7dcaedbc4/m/s/msh11-blue_main.webp"
+              },
+              {
+                "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/bb6747cb78f62b4f8afaa3d7dcaedbc4/m/s/msh11-blue_back.webp"
+              }
+            ],
+            "sku": "MSH11",
+            "name": "Arcadio Gym Short",
+            "stock_status": "IN_STOCK",
+            "short_description": {
+              "html": ""
+            },
+            "review": {
+              "rating_summary": null,
+              "reviews_count": null
+            },
+            "small_image": {
+              "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/eac9ca2db08fdabe30495279af82f69f/m/s/msh11-blue_main.webp",
+              "label": "Arcadio Gym Short"
+            },
+            "price_range": {
+              "maximum_price": {
+                "discount": {
+                  "amount_off": 0,
+                  "percent_off": 0
+                },
+                "final_price": {
+                  "currency": "IDR",
+                  "value": 320000
+                },
+                "regular_price": {
+                  "currency": "IDR",
+                  "value": 320000
+                }
+              }
+            }
+          },
+          {
+            "id": "MTAwNw==",
+            "media_gallery": [
+              {
+                "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/bb6747cb78f62b4f8afaa3d7dcaedbc4/m/s/msh10-blue_main.webp"
+              },
+              {
+                "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/bb6747cb78f62b4f8afaa3d7dcaedbc4/m/s/msh10-blue_alt1.webp"
+              },
+              {
+                "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/bb6747cb78f62b4f8afaa3d7dcaedbc4/m/s/msh10-blue_back.webp"
+              }
+            ],
+            "sku": "MSH10",
+            "name": "Sol Active Short",
+            "stock_status": "IN_STOCK",
+            "short_description": {
+              "html": ""
+            },
+            "review": {
+              "rating_summary": null,
+              "reviews_count": null
+            },
+            "small_image": {
+              "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/eac9ca2db08fdabe30495279af82f69f/m/s/msh10-blue_main.webp",
+              "label": "Sol Active Short"
+            },
+            "price_range": {
+              "maximum_price": {
+                "discount": {
+                  "amount_off": 0,
+                  "percent_off": 0
+                },
+                "final_price": {
+                  "currency": "IDR",
+                  "value": 512000
+                },
+                "regular_price": {
+                  "currency": "IDR",
+                  "value": 512000
+                }
+              }
+            }
+          },
+          {
+            "id": "OTk0",
+            "media_gallery": [
+              {
+                "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/bb6747cb78f62b4f8afaa3d7dcaedbc4/m/s/msh09-blue_main.webp"
+              },
+              {
+                "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/bb6747cb78f62b4f8afaa3d7dcaedbc4/m/s/msh09-blue_alt1.webp"
+              },
+              {
+                "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/bb6747cb78f62b4f8afaa3d7dcaedbc4/m/s/msh09-blue_back.webp"
+              }
+            ],
+            "sku": "MSH09",
+            "name": "Troy Yoga Short",
+            "stock_status": "IN_STOCK",
+            "short_description": {
+              "html": ""
+            },
+            "review": {
+              "rating_summary": "67",
+              "reviews_count": "3"
+            },
+            "small_image": {
+              "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/eac9ca2db08fdabe30495279af82f69f/m/s/msh09-blue_main.webp",
+              "label": "Troy Yoga Short"
+            },
+            "price_range": {
+              "maximum_price": {
+                "discount": {
+                  "amount_off": 0,
+                  "percent_off": 0
+                },
+                "final_price": {
+                  "currency": "IDR",
+                  "value": 384000
+                },
+                "regular_price": {
+                  "currency": "IDR",
+                  "value": 384000
+                }
+              }
+            }
+          },
+          {
+            "id": "OTgx",
+            "media_gallery": [
+              {
+                "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/bb6747cb78f62b4f8afaa3d7dcaedbc4/m/s/msh08-black_main.webp"
+              },
+              {
+                "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/bb6747cb78f62b4f8afaa3d7dcaedbc4/m/s/msh08-black_back.webp"
+              }
+            ],
+            "sku": "MSH08",
+            "name": "Orestes Fitness Short",
+            "stock_status": "IN_STOCK",
+            "short_description": {
+              "html": ""
+            },
+            "review": {
+              "rating_summary": "60",
+              "reviews_count": "2"
+            },
+            "small_image": {
+              "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/eac9ca2db08fdabe30495279af82f69f/m/s/msh08-black_main.webp",
+              "label": "Orestes Fitness Short"
+            },
+            "price_range": {
+              "maximum_price": {
+                "discount": {
+                  "amount_off": 0,
+                  "percent_off": 0
+                },
+                "final_price": {
+                  "currency": "IDR",
+                  "value": 560000
+                },
+                "regular_price": {
+                  "currency": "IDR",
+                  "value": 560000
+                }
+              }
+            }
+          },
+          {
+            "id": "OTY4",
+            "media_gallery": [
+              {
+                "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/bb6747cb78f62b4f8afaa3d7dcaedbc4/m/s/msh07-black_main.webp"
+              },
+              {
+                "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/bb6747cb78f62b4f8afaa3d7dcaedbc4/m/s/msh07-black_alt1.webp"
+              },
+              {
+                "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/bb6747cb78f62b4f8afaa3d7dcaedbc4/m/s/msh07-black_back.webp"
+              }
+            ],
+            "sku": "MSH07",
+            "name": "Rapha  Sports Short",
+            "stock_status": "IN_STOCK",
+            "short_description": {
+              "html": ""
+            },
+            "review": {
+              "rating_summary": "87",
+              "reviews_count": "3"
+            },
+            "small_image": {
+              "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/eac9ca2db08fdabe30495279af82f69f/m/s/msh07-black_main.webp",
+              "label": "Rapha  Sports Short"
+            },
+            "price_range": {
+              "maximum_price": {
+                "discount": {
+                  "amount_off": 0,
+                  "percent_off": 0
+                },
+                "final_price": {
+                  "currency": "IDR",
+                  "value": 560000
+                },
+                "regular_price": {
+                  "currency": "IDR",
+                  "value": 560000
+                }
+              }
+            }
+          },
+          {
+            "id": "OTU1",
+            "media_gallery": [
+              {
+                "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/bb6747cb78f62b4f8afaa3d7dcaedbc4/m/s/msh06-gray_main.webp"
+              },
+              {
+                "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/bb6747cb78f62b4f8afaa3d7dcaedbc4/m/s/msh06-gray_alt1.webp"
+              },
+              {
+                "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/bb6747cb78f62b4f8afaa3d7dcaedbc4/m/s/msh06-gray_back.webp"
+              }
+            ],
+            "sku": "MSH06",
+            "name": "Lono Yoga Short",
+            "stock_status": "IN_STOCK",
+            "short_description": {
+              "html": ""
+            },
+            "review": {
+              "rating_summary": "70",
+              "reviews_count": "2"
+            },
+            "small_image": {
+              "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/eac9ca2db08fdabe30495279af82f69f/m/s/msh06-gray_main.webp",
+              "label": "Lono Yoga Short"
+            },
+            "price_range": {
+              "maximum_price": {
+                "discount": {
+                  "amount_off": 0,
+                  "percent_off": 0
+                },
+                "final_price": {
+                  "currency": "IDR",
+                  "value": 512000
+                },
+                "regular_price": {
+                  "currency": "IDR",
+                  "value": 512000
+                }
+              }
+            }
+          },
+          {
+            "id": "OTQy",
+            "media_gallery": [
+              {
+                "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/bb6747cb78f62b4f8afaa3d7dcaedbc4/m/s/msh05-gray_main.webp"
+              },
+              {
+                "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/bb6747cb78f62b4f8afaa3d7dcaedbc4/m/s/msh05-gray_alt1.webp"
+              },
+              {
+                "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/bb6747cb78f62b4f8afaa3d7dcaedbc4/m/s/msh05-gray_back.webp"
+              }
+            ],
+            "sku": "MSH05",
+            "name": "Hawkeye Yoga Short",
+            "stock_status": "IN_STOCK",
+            "short_description": {
+              "html": ""
+            },
+            "review": {
+              "rating_summary": "73",
+              "reviews_count": "3"
+            },
+            "small_image": {
+              "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/eac9ca2db08fdabe30495279af82f69f/m/s/msh05-gray_main.webp",
+              "label": "Hawkeye Yoga Short"
+            },
+            "price_range": {
+              "maximum_price": {
+                "discount": {
+                  "amount_off": 0,
+                  "percent_off": 0
+                },
+                "final_price": {
+                  "currency": "IDR",
+                  "value": 464000
+                },
+                "regular_price": {
+                  "currency": "IDR",
+                  "value": 464000
+                }
+              }
+            }
+          },
+          {
+            "id": "OTI5",
+            "media_gallery": [
+              {
+                "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/bb6747cb78f62b4f8afaa3d7dcaedbc4/m/s/msh04-gray_main.webp"
+              },
+              {
+                "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/bb6747cb78f62b4f8afaa3d7dcaedbc4/m/s/msh04-gray_back.webp"
+              }
+            ],
+            "sku": "MSH04",
+            "name": "Torque Power Short",
+            "stock_status": "IN_STOCK",
+            "short_description": {
+              "html": ""
+            },
+            "review": {
+              "rating_summary": "60",
+              "reviews_count": "3"
+            },
+            "small_image": {
+              "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/eac9ca2db08fdabe30495279af82f69f/m/s/msh04-gray_main.webp",
+              "label": "Torque Power Short"
+            },
+            "price_range": {
+              "maximum_price": {
+                "discount": {
+                  "amount_off": 0,
+                  "percent_off": 0
+                },
+                "final_price": {
+                  "currency": "IDR",
+                  "value": 520000
+                },
+                "regular_price": {
+                  "currency": "IDR",
+                  "value": 520000
+                }
+              }
+            }
+          },
+          {
+            "id": "OTE2",
+            "media_gallery": [
+              {
+                "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/bb6747cb78f62b4f8afaa3d7dcaedbc4/m/s/msh03-blue_main.webp"
+              },
+              {
+                "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/bb6747cb78f62b4f8afaa3d7dcaedbc4/m/s/msh03-blue_alt1.webp"
+              },
+              {
+                "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/bb6747cb78f62b4f8afaa3d7dcaedbc4/m/s/msh03-blue_back.webp"
+              }
+            ],
+            "sku": "MSH03",
+            "name": "Meteor Workout Short",
+            "stock_status": "IN_STOCK",
+            "short_description": {
+              "html": ""
+            },
+            "review": {
+              "rating_summary": "73",
+              "reviews_count": "3"
+            },
+            "small_image": {
+              "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/eac9ca2db08fdabe30495279af82f69f/m/s/msh03-blue_main.webp",
+              "label": "Meteor Workout Short"
+            },
+            "price_range": {
+              "maximum_price": {
+                "discount": {
+                  "amount_off": 0,
+                  "percent_off": 0
+                },
+                "final_price": {
+                  "currency": "IDR",
+                  "value": 520000
+                },
+                "regular_price": {
+                  "currency": "IDR",
+                  "value": 520000
+                }
+              }
+            }
+          }
+        ]
+      }
 }
