@@ -4,6 +4,10 @@
         "uid": "MTk4OA==",
         "name": "Bess Yoga Short",
         "rating_summary": "73",
+        "price": {
+            "original_price": 109.99,
+            "special_price": 101.00
+        },
         "media_gallery": [
             {
             "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/bb6747cb78f62b4f8afaa3d7dcaedbc4/w/s/wsh05-blue_main.webp"
@@ -17,6 +21,10 @@
         "uid": "MTk0MA==",
         "name": "Maxima Drawstring Short",
         "rating_summary": "80",
+        "price": {
+            "original_price": 99.99,
+            "special_price": null
+        },
         "media_gallery": [
             {
             "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/bb6747cb78f62b4f8afaa3d7dcaedbc4/w/s/wsh02-gray_main.webp"
@@ -30,6 +38,10 @@
         "uid": "MTgxNw==",
         "name": "Breathe-Easy Tank",
         "rating_summary": "70",
+        "price": {
+            "original_price": 77.50,
+            "special_price": null
+        },
         "media_gallery": [
             {
             "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/bb6747cb78f62b4f8afaa3d7dcaedbc4/w/t/wt09-white_main.webp"
@@ -43,6 +55,10 @@
         "uid": "MTgwMQ==",
         "name": "Antonia Racer Tank",
         "rating_summary": "60",
+        "price": {
+            "original_price": 80.00,
+            "special_price": 70.00
+        },
         "media_gallery": [
             {
             "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/bb6747cb78f62b4f8afaa3d7dcaedbc4/w/t/wt08-black_main.webp"
@@ -59,6 +75,10 @@
         "uid": "MTYwOQ==",
         "name": "Electra Bra Top",
         "rating_summary": "75",
+        "price": {
+            "original_price": 100.00,
+            "special_price": 99.00
+        },
         "media_gallery": [
             {
             "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/bb6747cb78f62b4f8afaa3d7dcaedbc4/w/b/wb01-gray_main.webp"
@@ -75,6 +95,10 @@
         "uid": "MTU0NQ==",
         "name": "Diva Gym Tee",
         "rating_summary": "87",
+        "price": {
+            "original_price": 70.50,
+            "special_price": null
+        },
         "media_gallery": [
             {
             "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/bb6747cb78f62b4f8afaa3d7dcaedbc4/w/s/ws11-yellow_main.webp"
@@ -88,6 +112,10 @@
         "uid": "MTUxMw==",
         "name": "Tiffany Fitness Tee",
         "rating_summary": "73",
+        "price": {
+            "original_price": 80,
+            "special_price": null
+        },
         "media_gallery": [
             {
             "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/bb6747cb78f62b4f8afaa3d7dcaedbc4/w/s/ws09-blue_main.webp"
@@ -101,6 +129,10 @@
         "uid": "MTQ5Nw==",
         "name": "Minerva LumaTech&trade; V-Tee",
         "rating_summary": "47",
+        "price": {
+            "original_price": 99.99,
+            "special_price": 80.00
+        },
         "media_gallery": [
             {
             "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/bb6747cb78f62b4f8afaa3d7dcaedbc4/w/s/ws08-blue_main.webp"
@@ -114,6 +146,10 @@
         "uid": "MTQwMQ==",
         "name": "Olivia 1/4 Zip Light Jacket",
         "rating_summary": null,
+        "price": {
+            "original_price": 90.00,
+            "special_price": 80.00
+        },
         "media_gallery": [
             {
             "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/bb6747cb78f62b4f8afaa3d7dcaedbc4/w/j/wj12-blue_main.webp"
@@ -130,6 +166,10 @@
         "uid": "MTM4NQ==",
         "name": "Juno Jacket",
         "rating_summary": "87",
+        "price": {
+            "original_price": 79.99,
+            "special_price": 76.00
+        },
         "media_gallery": [
             {
             "url": "https://b2cdemo.getswift.asia/media/catalog/product/cache/bb6747cb78f62b4f8afaa3d7dcaedbc4/w/j/wj06-purple_main.webp"
