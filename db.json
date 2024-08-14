@@ -1,7 +1,7 @@
 {
     "products": [
         {
-        "uid": "MTk4OA==",
+        "id": "MTk4OA==",
         "name": "Bess Yoga Short",
         "rating_summary": "73",
         "price": {
@@ -34,7 +34,7 @@
         ]
         },
         {
-        "uid": "MTk0MA==",
+        "id": "MTk0MA==",
         "name": "Maxima Drawstring Short",
         "rating_summary": "80",
         "price": {
@@ -68,7 +68,7 @@
         ]
         },
         {
-        "uid": "MTgxNw==",
+        "id": "MTgxNw==",
         "name": "Breathe-Easy Tank",
         "rating_summary": "70",
         "price": {
@@ -102,7 +102,7 @@
         ]
         },
         {
-        "uid": "MTgwMQ==",
+        "id": "MTgwMQ==",
         "name": "Antonia Racer Tank",
         "rating_summary": "60",
         "price": {
@@ -123,7 +123,7 @@
         "variants": null
         },
         {
-        "uid": "MTYwOQ==",
+        "id": "MTYwOQ==",
         "name": "Electra Bra Top",
         "rating_summary": "75",
         "price": {
@@ -143,7 +143,7 @@
         ]
         },
         {
-        "uid": "MTU0NQ==",
+        "id": "MTU0NQ==",
         "name": "Diva Gym Tee",
         "rating_summary": "87",
         "price": {
@@ -161,7 +161,7 @@
         "variants": null
         },
         {
-        "uid": "MTUxMw==",
+        "id": "MTUxMw==",
         "name": "Tiffany Fitness Tee",
         "rating_summary": "73",
         "price": {
@@ -178,7 +178,7 @@
         ]
         },
         {
-        "uid": "MTQ5Nw==",
+        "id": "MTQ5Nw==",
         "name": "Minerva LumaTech&trade; V-Tee",
         "rating_summary": "47",
         "price": {
@@ -195,7 +195,7 @@
         ]
         },
         {
-        "uid": "MTQwMQ==",
+        "id": "MTQwMQ==",
         "name": "Olivia 1/4 Zip Light Jacket",
         "rating_summary": null,
         "price": {
@@ -230,7 +230,7 @@
         ]
         },
         {
-        "uid": "MTM4NQ==",
+        "id": "MTM4NQ==",
         "name": "Juno Jacket",
         "rating_summary": "87",
         "price": {
